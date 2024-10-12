@@ -6,6 +6,4 @@ This is a dummy repo for trying out emacs features.
 
 * LaTex Examples
 
-\begin{equation}
-a^2 + b^2 = c^2
-\end{equation}
+$a^2 + b^2 = c^2$
