@@ -5,3 +5,7 @@ from json import load
 def load_data(path: str):
     with open(path) as fobj:
         return load(fobj)
+
+
+def solution_01():
+    return "Not implemented."
