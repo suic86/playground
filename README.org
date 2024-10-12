@@ -1,3 +1,5 @@
+#+OPTIONS: tex:t
+#+HTML_MATHJAX: align: left indent: 5em tagside: left
 * Introduction
 
 This is a dummy repo for trying out emacs features.
